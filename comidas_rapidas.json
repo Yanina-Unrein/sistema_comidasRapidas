@@ -1,0 +1,102 @@
+[
+    {
+        "id": 0,
+        "descripcion": "Empanadas de Jamon y queso",
+        "ingredientes": [
+            "harina",
+            "agua",
+            "carne",
+            "cebolla",
+            "sal",
+            "morron",
+            "ajo",
+            "jamon",
+            "queso"
+        ],
+        "tiempo": 35,
+        "precio": 500.0,
+        "calorias": 120,
+        "vegana": false,
+        "pasos_elaboracion": [
+            "preparar la masa con los inredientes",
+            " rellenarlas con jamon y queso",
+            " cocinar a 180 en el horno"
+        ]
+    },
+    {
+        "id": 1,
+        "descripcion": "Tortilla de papas",
+        "ingredientes": [
+            "papa",
+            "cebolla",
+            "huevo",
+            "ajo",
+            "sal",
+            "aceite",
+            "pimienta"
+        ],
+        "tiempo": 20,
+        "precio": 1350,
+        "calorias": 180,
+        "vegana": false
+    },
+    {
+        "id": 2,
+        "descripcion": "Salsa pesto",
+        "ingredientes": [
+            "albahaca",
+            "ajo",
+            "sal",
+            "aceite",
+            "queso rallado"
+        ],
+        "tiempo": 40,
+        "precio": 1000.0,
+        "calorias": 200,
+        "vegana": false
+    },
+    {
+        "id": 4,
+        "descripcion": "Licuado de banana",
+        "ingredientes": [
+            "banana",
+            "agua",
+            "azucar"
+        ],
+        "tiempo": "10",
+        "precio": 800,
+        "calorias": 380,
+        "vegana": false
+    },
+    {
+        "id": 5,
+        "descripcion": "Jugo de naranja",
+        "ingredientes": [
+            "naranja"
+        ],
+        "tiempo": 5,
+        "precio": 500,
+        "calorias": 380,
+        "vegana": false
+    },
+    {
+        "id": 6,
+        "descripcion": "Licuado de manzana",
+        "ingredientes": [
+            "manzana",
+            "leche",
+            "azucar"
+        ],
+        "tiempo": 15,
+        "precio": 900.0,
+        "calorias": 450,
+        "vegana": true,
+        "pasos_elaboracion": [
+            "cortar las manzanas",
+            " colocarlas en la licuadora",
+            " agregar la leche y azucar a gusto",
+            " licuar",
+            " servir"
+        ]
+    }
+]
